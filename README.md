@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewhilario&label=Profile%20views&color=0e75b6&style=flat" alt="andrewhilario" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://andrewhilario.tech)
+- 🔭 I’m currently working on None because I'm unemployed sad to say but I hope I will land a decent job soon because I need a webcam asap
 
 - 🌱 I’m currently learning **React.js, Next.js, Node and Express**
 
