@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewhilario&label=Profile%20views&color=0e75b6&style=flat" alt="andrewhilario" /> </p>
 
-- 🔭 I’m currently working on None because I'm unemployed sad to say but I hope I will land a decent job soon because I need a webcam asap
+- 🔭 I’m currently working on Vashcorp, Inc. as a Junior Backend Developer
 
-- 🌱 I’m currently learning **React.js, Next.js, Node and Express**
+- 🌱 I’m currently learning **Django Rest Framework, and React Native**
 
 - 👨‍💻 All of my projects are available at [github.com/andrewhilario](github.com/andrewhilario)
 
