@@ -1,32 +1,63 @@
-[![MasterHead](https://i.imgur.com/EoVbm1X.png)](https://andrewhilario.tech/)
-<h1 align="center">Hi 👋, I'm Andrew Hilario</h1>
-<h3 align="center">A Front-End Developer and soon to be a Full-Stack Web Developer</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47t93aldbnsgkhlfhjwvp6rnbf8seasjngxnvj96zo&rid=giphy.gif">
+# Andrew Hilario
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewhilario&label=Profile%20views&color=0e75b6&style=flat" alt="andrewhilario" /> </p>
+### Front-End Developer | Aspiring Full-Stack Engineer
 
-- 🔭 I’m currently working on Vashcorp, Inc. as a Junior Backend Developer
+[![Portfolio](https://img.shields.io/badge/Portfolio-AndrewHilario.tech-blue)](https://drewhilario.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Hilario-0077B5)](https://linkedin.com/in/hilarioandrew12)
+[![Email](https://img.shields.io/badge/Email-hilarioandrew12@gmail.com-D14836)](mailto:hilarioandrew12@gmail.com)
 
-- 🌱 I’m currently learning **Django Rest Framework, and React Native**
+---
 
-- 👨‍💻 All of my projects are available at [github.com/andrewhilario](github.com/andrewhilario)
+## 👨‍💻 About Me
 
-- 💬 Ask me about **HTML, Tailwind, Django, and Vanilla Javascript**
+I'm a passionate Front-End Developer with experience in backend development, working toward becoming a Full-Stack Web Developer. I enjoy building responsive, user-friendly web applications and continuously learning new technologies to enhance my development skills. I'm available for freelance projects and collaborative opportunities.
 
-- 📫 How to reach me **hilarioandrew12@gmail.com**
+- 🔭 **Currently working on:** Expanding my full-stack development capabilities
+- 🌱 **Currently learning:** Django Rest Framework & React Native
+- 💼 **Available for:** Freelance projects and development opportunities
+- 📫 **Reach me:** hilarioandrew12@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ainzzs4ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ainzzs4ma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hilarioandrew12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilarioandrew12" height="30" width="40" /></a>
-<a href="https://fb.com/andrew.hilario.0412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrew.hilario.0412" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ Technologies & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewhilario&show_icons=true&locale=en&layout=compact" alt="andrewhilario" /></p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewhilario&show_icons=true&locale=en" alt="andrewhilario" /></p>
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrewhilario&" alt="andrewhilario" /></p>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewhilario&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewhilario&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewhilario&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ainzzs4ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hilarioandrew12)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/andrew.hilario.0412)
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
