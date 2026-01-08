@@ -1,6 +1,6 @@
 # Andrew Hilario
 
-### Front-End Developer | Aspiring Full-Stack Engineer
+### Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-AndrewHilario.tech-blue)](https://drewhilario.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Hilario-0077B5)](https://linkedin.com/in/hilarioandrew12)
