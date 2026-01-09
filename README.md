@@ -15,7 +15,7 @@ I’m a Software Engineer with hands-on experience building full-stack web appli
 - 🔭 **Currently working on:** Expanding my full-stack development capabilities
 - 🌱 **Currently learning:** AI Agents
 - 💼 **Available for:** Freelance projects, Custom Website, Thesis Applications and other development opportunities
-- 📫 **Reach me:** hilarioandrew12@gmail.com
+- 📫 **Check our website:** [Logic and Pixels](https://logicandpixels.dev/)
 
 ---
 
@@ -39,16 +39,6 @@ I’m a Software Engineer with hands-on experience building full-stack web appli
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewhilario&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewhilario&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewhilario&theme=radical)
 
 ---
 
