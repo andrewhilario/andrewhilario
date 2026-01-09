@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Front-End Developer with experience in backend development, working toward becoming a Full-Stack Web Developer. I enjoy building responsive, user-friendly web applications and continuously learning new technologies to enhance my development skills. I'm available for freelance projects and collaborative opportunities.
+I’m a Software Engineer with hands-on experience building full-stack web applications. I enjoy turning ideas into clean, reliable systems, from backend logic and APIs to responsive, user-focused interfaces. I’m always learning and improving my skills by working with modern tools and technologies. I’m open to freelance work and collaborative projects where I can contribute and grow.
 
 - 🔭 **Currently working on:** Expanding my full-stack development capabilities
-- 🌱 **Currently learning:** Django Rest Framework & React Native
-- 💼 **Available for:** Freelance projects and development opportunities
+- 🌱 **Currently learning:** AI Agents
+- 💼 **Available for:** Freelance projects, Custom Website, Thesis Applications and other development opportunities
 - 📫 **Reach me:** hilarioandrew12@gmail.com
 
 ---
