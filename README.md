@@ -1,6 +1,6 @@
 # Andrew Hilario
 
-### Software Engineer at Logic and Pixels
+### Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-AndrewHilario.tech-blue)](https://www.andrewhilario.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew_Hilario-0077B5)](https://linkedin.com/in/hilarioandrew12)
@@ -15,7 +15,6 @@ I’m a Software Engineer with hands-on experience building full-stack web appli
 - 🔭 **Currently working on:** Expanding my full-stack development capabilities
 - 🌱 **Currently learning:** AI Agents
 - 💼 **Available for:** Freelance projects, Custom Website, Thesis Applications and other development opportunities
-- 📫 **Check our website:** [Logic and Pixels](https://logicandpixels.dev/)
 
 ---
 
